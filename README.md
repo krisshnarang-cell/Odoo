@@ -1,6 +1,8 @@
 # 💰 Expense Management Web App
 
 > A modern, responsive web application that helps users track, manage, and analyze their daily expenses — deployed live with Firebase Hosting.
+> 🏆 Built in 8 Hours | College Hackathon Project
+
 
 ## 🚀 Live Demo
 
